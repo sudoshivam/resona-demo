@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 680" role="img" aria-labelledby="title desc">
+  <title id="title">Illustration of the Resona paper detail layout</title>
+  <desc id="desc">An editorial paper page with metadata, abstract, actions, and an inline full-text reader. Illustrative content, not a live screenshot.</desc>
+  <rect width="1200" height="680" rx="8" fill="#F4EFE4"/>
+  <text x="40" y="48" fill="#211D18" font-family="Georgia,serif" font-size="24" letter-spacing="7">RESONA</text>
+  <g fill="#8A8072" font-family="Arial,sans-serif" font-size="14"><text x="570" y="44">Search</text><text x="665" y="44">Library</text><text x="760" y="44">Notebook</text><text x="878" y="44">About</text></g>
+  <path d="M34 69H1166" stroke="#D9D3BF"/>
+  <text x="42" y="107" fill="#A6813F" font-family="Arial,sans-serif" font-size="15">← Back to results</text>
+  <text x="989" y="107" fill="#8A8072" font-family="monospace" font-size="13">PAPER DETAIL</text>
+  <path d="M40 122H1160" stroke="#D9D3BF"/>
+  <text x="42" y="174" fill="#211D18" font-family="Georgia,serif" font-size="38">Attention Is All You Need</text>
+  <rect x="43" y="197" width="124" height="27" fill="#DCE7D8"/><text x="53" y="215" fill="#2D5A27" font-family="monospace" font-size="12">OPEN ACCESS</text>
+  <text x="43" y="258" fill="#8A8072" font-family="Arial,sans-serif" font-size="16">Vaswani et al.  ·  2017  ·  NeurIPS</text>
+  <text x="43" y="290" fill="#8A8072" font-family="monospace" font-size="13">DOI  10.48550/arXiv.1706.03762</text>
+  <g fill="none" stroke="#D9D3BF"><rect x="43" y="316" width="126" height="42"/><rect x="180" y="316" width="76" height="42"/><rect x="267" y="316" width="86" height="42"/><rect x="364" y="316" width="153" height="42"/></g>
+  <g fill="#211D18" font-family="Arial,sans-serif" font-size="14"><text x="58" y="342">AI Summary</text><text x="197" y="342">Cite</text><text x="284" y="342">Export</text><text x="382" y="342">Discuss With AI</text></g>
+  <path d="M40 389H1160" stroke="#D9D3BF"/>
+  <text x="42" y="433" fill="#211D18" font-family="Georgia,serif" font-size="27">Abstract</text>
+  <text x="42" y="470" fill="#211D18" font-family="Arial,sans-serif" font-size="16">The dominant sequence transduction models are based on complex recurrent or</text>
+  <text x="42" y="496" fill="#211D18" font-family="Arial,sans-serif" font-size="16">convolutional neural networks. This paper proposes a new architecture based</text>
+  <text x="42" y="522" fill="#211D18" font-family="Arial,sans-serif" font-size="16">solely on attention mechanisms.</text>
+  <rect x="40" y="552" width="738" height="86" fill="#FAF6EF" stroke="#D9D3BF"/>
+  <text x="58" y="584" fill="#211D18" font-family="Georgia,serif" font-size="22">Full text</text>
+  <text x="58" y="614" fill="#8A8072" font-family="Arial,sans-serif" font-size="14">Load the open-access PDF text inline for reading and grounded discussion.</text>
+  <rect x="806" y="413" width="354" height="225" fill="#FAF6EF" stroke="#D9D3BF"/>
+  <text x="826" y="451" fill="#211D18" font-family="Georgia,serif" font-size="24">Paper details</text>
+  <path d="M826 466H1138" stroke="#D9D3BF"/>
+  <g fill="#8A8072" font-family="Arial,sans-serif" font-size="14"><text x="826" y="494">Year</text><text x="826" y="529">Journal</text><text x="826" y="564">Publisher</text><text x="826" y="599">Open access</text></g>
+  <g fill="#211D18" font-family="Arial,sans-serif" font-size="14"><text x="1004" y="494">2017</text><text x="1004" y="529">NeurIPS</text><text x="1004" y="564">—</text><text x="1004" y="599">Yes</text></g>
+  <text x="42" y="661" fill="#8A8072" font-family="monospace" font-size="12">RESONA  —  RESEARCH IN FOCUS</text>
+</svg>

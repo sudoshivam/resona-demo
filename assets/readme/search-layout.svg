@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 680" role="img" aria-labelledby="title desc">
+  <title id="title">Illustration of the Resona search results layout</title>
+  <desc id="desc">An editorial search page with source and year filters on the left and paper cards on the right. Illustrative content, not a live screenshot.</desc>
+  <rect width="1200" height="680" rx="8" fill="#F4EFE4"/>
+  <g fill="#211D18"><text x="40" y="48" font-family="Georgia,serif" font-size="24" letter-spacing="7">RESONA</text></g>
+  <g fill="#8A8072" font-family="Arial,sans-serif" font-size="14"><text x="570" y="44">Search</text><text x="665" y="44">Library</text><text x="760" y="44">Notebook</text><text x="878" y="44">About</text></g>
+  <path d="M34 69H1166" stroke="#D9D3BF"/>
+  <text x="42" y="105" fill="#8A8072" font-family="monospace" font-size="13" letter-spacing="2">SEARCH RESULTS  /  ILLUSTRATIVE VIEW</text>
+  <rect x="40" y="126" width="270" height="504" fill="#FAF6EF" stroke="#D9D3BF"/>
+  <text x="62" y="165" fill="#211D18" font-family="Georgia,serif" font-size="25">Filters</text>
+  <path d="M62 180H288" stroke="#D9D3BF"/>
+  <g fill="#211D18" font-family="Arial,sans-serif" font-size="15"><text x="62" y="215">Sources</text><text x="91" y="248">OpenAlex</text><text x="91" y="283">Crossref</text><text x="91" y="318">Semantic Scholar</text><text x="91" y="353">arXiv</text><text x="62" y="407">Year</text><text x="62" y="504">Open Access</text><text x="62" y="568">Semantic rerank</text></g>
+  <g fill="none" stroke="#A6813F" stroke-width="2"><rect x="63" y="234" width="16" height="16"/><rect x="63" y="269" width="16" height="16"/><rect x="63" y="304" width="16" height="16"/><rect x="63" y="339" width="16" height="16"/><rect x="63" y="491" width="16" height="16"/><rect x="63" y="554" width="16" height="16"/><path d="M65 450H284"/></g>
+  <circle cx="93" cy="450" r="6" fill="#A6813F"/><circle cx="245" cy="450" r="6" fill="#A6813F"/>
+  <rect x="340" y="126" width="820" height="54" fill="#FAF6EF" stroke="#D9D3BF"/>
+  <text x="359" y="160" fill="#8A8072" font-family="Arial,sans-serif" font-size="16">Search papers, topics, authors…</text><rect x="1020" y="126" width="140" height="54" fill="#A6813F"/><text x="1053" y="160" fill="#FAF6EF" font-family="Arial,sans-serif" font-size="16">Search →</text>
+  <text x="341" y="216" fill="#8A8072" font-family="monospace" font-size="14">PAPERS  /  RELEVANCE</text>
+  <rect x="340" y="232" width="820" height="185" fill="#FAF6EF" stroke="#D9D3BF"/>
+  <text x="361" y="269" fill="#211D18" font-family="Georgia,serif" font-size="25">Attention Is All You Need</text>
+  <rect x="785" y="248" width="122" height="25" fill="#DCE7D8"/><text x="796" y="265" fill="#2D5A27" font-family="monospace" font-size="11">OPEN ACCESS</text>
+  <text x="362" y="303" fill="#8A8072" font-family="Arial,sans-serif" font-size="15">Vaswani et al.  ·  2017  ·  NeurIPS</text>
+  <text x="362" y="336" fill="#211D18" font-family="Arial,sans-serif" font-size="15">A foundational paper on attention-based sequence models.</text>
+  <path d="M361 354H1139" stroke="#D9D3BF"/>
+  <g fill="none" stroke="#D9D3BF"><rect x="361" y="369" width="101" height="33"/><rect x="470" y="369" width="70" height="33"/><rect x="548" y="369" width="131" height="33"/></g>
+  <g fill="#211D18" font-family="Arial,sans-serif" font-size="13"><text x="377" y="391">AI Summary</text><text x="486" y="391">Cite</text><text x="563" y="391">Discuss With AI</text></g>
+  <rect x="340" y="430" width="820" height="185" fill="#FAF6EF" stroke="#D9D3BF"/>
+  <text x="361" y="467" fill="#211D18" font-family="Georgia,serif" font-size="25">BERT: Pre-training of Deep Bidirectional Transformers</text>
+  <text x="362" y="501" fill="#8A8072" font-family="Arial,sans-serif" font-size="15">Devlin et al.  ·  2019  ·  NAACL</text>
+  <text x="362" y="534" fill="#211D18" font-family="Arial,sans-serif" font-size="15">Language representations learned from unlabeled text.</text>
+  <path d="M361 552H1139" stroke="#D9D3BF"/>
+  <g fill="none" stroke="#D9D3BF"><rect x="361" y="567" width="101" height="33"/><rect x="470" y="567" width="70" height="33"/><rect x="548" y="567" width="131" height="33"/></g>
+  <g fill="#211D18" font-family="Arial,sans-serif" font-size="13"><text x="377" y="589">AI Summary</text><text x="486" y="589">Cite</text><text x="563" y="589">Discuss With AI</text></g>
+  <text x="42" y="661" fill="#8A8072" font-family="monospace" font-size="12">RESONA  —  RESEARCH IN FOCUS</text>
+</svg>
